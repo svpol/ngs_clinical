@@ -1,4 +1,4 @@
-# 1 Quality assessment and improving
+# 1. Quality assessment and improving
 
 To assess and improve the quality of a sample, do the following steps:
 
@@ -16,7 +16,7 @@ To assess and improve the quality of a sample, do the following steps:
 
    For further work use the trimmed file.
 
-# 2 Alignment
+# 2. Alignment
 
 The second step is to map the sample with a reference genome:
 
@@ -56,7 +56,7 @@ The second step is to map the sample with a reference genome:
    samtools flagstat <sample_sorted>.bam
    ```
 
-# 3 Comparison the sample with the reference
+# 3. Comparison the sample with the reference
 
 To compare the sample with the reference and find the difference with the clinical meaning follow the steps:
 
@@ -73,7 +73,7 @@ To compare the sample with the reference and find the difference with the clinic
    gunzip <sample>.vcf.gz
    ```
 
-# 4 VCF annotation
+# 4. VCF annotation
 
 To annotate and obtain the info about clinically associated SNPs follow the step:
 
