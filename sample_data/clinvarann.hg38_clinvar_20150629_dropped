@@ -1,0 +1,2 @@
+clinvar_20150629	CLINSIG=other;CLNDBN=Focal_segmental_glomerulosclerosis_4\x2c_susceptibility_to;CLNREVSTAT=no_assertion_criteria_provided;CLNACC=RCV000006453.2;CLNDSDB=MedGen:OMIM:Orphanet;CLNDSDBID=C2675525:612551:ORPHA656	chr22	36265860	36265860	A	G	het	225.009	72
+clinvar_20150629	CLINSIG=untested;CLNDBN=Focal_segmental_glomerulosclerosis_4\x2c_susceptibility_to;CLNREVSTAT=no_assertion_provided;CLNACC=RCV000154652.1;CLNDSDB=MedGen:OMIM:Orphanet;CLNDSDBID=C2675525:612551:ORPHA656	chr22	36265988	36265988	T	G	het	203.009	36
