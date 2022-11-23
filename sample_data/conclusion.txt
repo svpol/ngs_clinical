@@ -1,4 +1,4 @@
-PPhenotype: Glomerulosclerosis, focal segmental, 4
+Phenotype: Glomerulosclerosis, focal segmental, 4
 
 Variants likely related to the phenotype:
 
