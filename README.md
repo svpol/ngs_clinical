@@ -16,5 +16,4 @@ For now, the example pipeline is presented for a single-end read only.
 
   * sample.fastq - the sequence to analyse, reads from human chromosome 22
   * reference_seq.txt - the link to reference human chromosome of hg38.
-  * clinvarann.hg38_clinvar_20150629_filtered and clinvarann.hg38_clinvar_20150629_dropped - annotation files gained with ClinVar database. Dropped are the variants matching filters, the other ones are in filtered.
   * conclusion.txt - medical information about the resuls of the sample sequence analysis.
