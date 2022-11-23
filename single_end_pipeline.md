@@ -88,4 +88,4 @@ To annotate and obtain the info about clinically associated SNPs follow the step
    perl /<path>/annotate_variation.pl -filter -dbtype <db_name> -buildver hg38 <sample>.avinput -outfile <annotation> /<path>/annovar/humandb
    ```
 
-Then you will see the SNP and will be able to make a conclusion.
+Then you will see the SNPs and will be able to make a conclusion.
