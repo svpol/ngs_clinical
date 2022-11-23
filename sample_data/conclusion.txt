@@ -1,0 +1,10 @@
+PPhenotype: Glomerulosclerosis, focal segmental, 4
+
+Variants likely related to the phenotype:
+
+gene   variant                    allele freq  zygosity  predicted_significance
+APOL1  chr22:g.36265988T>G(hg38)  N/A          het       pathogenic
+       NM_003661.4
+       c.1152T>G
+       p.Ile384Met
+       
