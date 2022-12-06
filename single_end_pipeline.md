@@ -85,7 +85,7 @@ To annotate and obtain the info about clinically associated SNPs follow the step
 2. Assumed that the databases are already downloaded (with the command `perl /<path>/annotate_variation.pl -buildver hg38 -downdb -webfrom annovar <db_name> humandb/`), annotate the avinput using chosen databases:
 
    ```
-   perl /<path>/annotate_variation.pl -filter -dbtype <db_name> -buildver hg38 <sample>.avinput -outfile <annotation> /<path>/annovar/humandb
+   perl /<path>/annotate_variation.pl --<filter | geneanno | regionanno> -dbtype <db_name> -buildver hg38 <sample>.avinput -outfile <annotation> /<path>/annovar/humandb
    ```
 
 Then you will see the SNPs and will be able to make a conclusion.
